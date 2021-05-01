@@ -1,2 +1,0 @@
-# TodoList
-Exercise java poo
